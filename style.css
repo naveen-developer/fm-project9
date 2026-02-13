@@ -189,6 +189,12 @@ body {
         max-width: 307px;
     }
 
+    .cards .card button {
+        margin-top: 70px;
+    }
+
+    ;
+
     .cards .card:first-child {
         border-radius: 7px 0px 0 7px;
     }
